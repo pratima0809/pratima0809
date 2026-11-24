@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pratima</h1>
-<h3 align="center">A passionate frontend developer from India, Pursuing Btech CSE</h3>
+<h3 align="center">A passionate SOC Analyst from India, Pursuing Btech CSE</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratima0809" alt="pratima0809" /></a> </p>
 
